@@ -12,21 +12,17 @@ As categorias do bazaar têm uma extrutura base muito simples: `MasterCategory -
 
 ```json
     [
-        // MasterCategory
         {
             "name": "Tecnologia",
             "hex_color": "#0078D7",
             "fa_icon": "<i class='fas fa-laptop'></i>",
             "subcategories": [
-                // Category
                 {
                     "name": "Computadores",
                     "subcategories": [
-                        // SubCategory
                         {
                             "name": "Componentes",
                             "tags": "memoria ram, rom, hd, placa grafica, disco duro",
-                            // datalhes => <Tipo de Dados:Nome> ;
                             "details_keys": "<bool:Usado>;<str:Marca>;<:>"
                         }
                     ]
