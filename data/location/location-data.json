@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Angola",
+        "provinces": [
+            {
+                "name": "Luanda",
+                "counties": [
+                    {
+                        "name": "Belas",
+                        "districts": [
+                            {
+                                "name": "Kilamba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

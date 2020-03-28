@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Tecnologia",
+        "hex_color": "#0078D7",
+        "fa_icon": "<i class='fas fa-laptop'></i>",
+        "subcategories": [
+            {
+                "name": "Computadores",
+                "subcategories": [
+                    {
+                        "name": "Componentes",
+                        "tags": "memoria ram, rom, hd, placa grafica, disco duro",
+                        "details_keys": "<bool:Usado>;<str:Marca>"
+                    }
+                ]
+            },
+        ]
+    },
+    {
+        "name": "Animais",
+        "hex_color": "#0078D7",
+        "fa_icon": "<i class='fas fa-paw'></i>"
+    },
+    {
+        "name": "Bebés e Crianças",
+        "hex_color": "#0078D7",
+        "fa_icon": "<i class='fas fa-baby-carriage'></i>"
+    },
+    {
+        "name": "Ferramentas",
+        "hex_color": "#E4354A",
+        "fa_icon": "<i class='fas fa-briefcase'></i>"
+    },
+    {
+        "name": "Móveis",
+        "hex_color": "#E4354A",
+        "fa_icon": "<i class='fas fa-couch'></i>"
+    },
+    {
+        "name": "Imóveis",
+        "hex_color": "#1DC37D",
+        "fa_icon": "<i class='fas fa-home'></i>"
+    },
+    {
+        "name": "Moda",
+        "hex_color": "#F95759",
+        "fa_icon": "<i class='fas fa-tshirt'></i>"
+    },
+    {
+        "name": "Veículos",
+        "hex_color": "#1DC37D",
+        "fa_icon": "<i class='fas fa-car'></i>"
+    },
+    {
+        "name": "Musica",
+        "hex_color": "#E4354A",
+        "fa_icon": "<i class='fas fa-guitar'></i>"
+    },
+    {
+        "name": "Serviços",
+        "hex_color": "#E4354A",
+        "fa_icon": "<i class='fas fa-user-cog'></i>"
+    },
+    {
+        "name": "Outros",
+        "hex_color": "#1DC37D",
+        "fa_icon": "<i class='fas fa-plus'></i>",
+        "subcategories": [
+            {
+                "name": "Outros",
+                "subcategories": [
+                    {
+                        "name": "Outros",
+                        "tags": "outros, mais"
+                    }
+                ]
+            }
+        ]
+    }
+]
