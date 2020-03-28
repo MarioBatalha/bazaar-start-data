@@ -12,7 +12,6 @@ As localizacoes do bazaar têm uma extrutura base muito simples: `Pais -> Provin
 
 ```json
     [
-        // Paises
         {
             "name": "Angola",
             "provinces": [
