@@ -10,8 +10,44 @@
                         "districts": [
                             {
                                 "name": "Kilamba"
+                            },
+                            {
+                                "name": "Benfica"
+                            },
+                            {
+                                "name": "Futungo de Belas"
+                            },
+                            {
+                                "name": "Ramiros"
+                            },
+                            {
+                                "name": "Barra do Kwanza"
+                            },
+                            {
+                                "name": "Ilha do Mussulo"
+                            },
+                            {
+                                "name": "Camama"
                             }
                         ]
+                    },
+                    {
+                        "name": "Cacuaco"
+                    },
+                    {
+                        "name": "Cazenga"
+                    },
+                    {
+                        "name": "Talatona"
+                    },
+                    {
+                        "name": "Viana"
+                    },
+                    {
+                        "name": "Ícolo e Bengo"
+                    },
+                    {
+                        "name": "Quissama"
                     }
                 ]
             },
